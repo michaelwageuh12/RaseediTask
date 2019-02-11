@@ -3,4 +3,5 @@
     <string name="image_name">TestName</string>
     <string name="title_activity_detail_ad">DetailAdActivity</string>
     <string name="adURL">More Details</string>
+    <string name="loading_ad_image">Loading Ad Image ...</string>
 </resources>

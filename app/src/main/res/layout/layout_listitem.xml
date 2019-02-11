@@ -7,8 +7,8 @@
     android:id="@+id/list_item_id">
 
     <de.hdodenhof.circleimageview.CircleImageView
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
         android:id="@+id/imageId"
         android:src="@drawable/ic_launcher_background"/>
 
@@ -19,7 +19,7 @@
         android:text="@string/image_name"
         android:id="@+id/imageNameId"
         android:layout_toRightOf="@+id/imageId"
-        android:textColor="@color/Black"
+        android:textColor="@color/colorPrimary"
         android:layout_centerVertical="true"
         android:layout_marginLeft="30dp"
         android:textSize="18sp"/>

@@ -1,0 +1,16 @@
+Please complete the following task (estimated 2-4 hours) by no later than Monday 11:00 PM
+Earlier is better and quality is better than complete.
+
+You asked build an ad displaying app with the following functions:
+•	show a list of ads using this api (https://simswitch.bit68.com/get_ad/?solo=false)
+•	for each ad you must show its title (provided the attribute title)
+•	list the ads in ascending order (provided the attribute order)
+•	once an item is clicked it must navigate to a details page
+•	in the details page: it must show the picture of the ad along with its title again (provided the attribute picture)
+•	in the details page: implement a button to direct to its url (provided the attribute url)
+
+The following points should be followed:
+•	Make the app's user interface looks as good as you can. (play around with elements styling)
+•	Follow a simple MVP Design Pattern
+•	Proper use of version control, check (https://nvie.com/posts/a-successful-git-branching-model/) and (https://chris.beams.io/posts/git-commit/)
+•	Proper documentation, check (https://www.clear.rice.edu/comp310/JavaResources/comments.html)
